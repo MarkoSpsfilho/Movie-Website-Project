@@ -19,8 +19,6 @@ body {
 .cinema-header {
     height: 70px;
     background: linear-gradient(90deg, #090202, #1f0300);
-
-    /* ----- COLOCANDO ITENS LADO A LADO ---- */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -95,7 +93,7 @@ body {
     border-radius: 8px;
     margin: 5px;
     width: 220px;
-    height: 320px;
+    height: 330px;
     flex-shrink: 0;
     overflow: hidden;
 }
